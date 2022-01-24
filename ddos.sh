@@ -11,7 +11,7 @@
 # The LICENSE file is located in the same directory as this program. Please  #
 # read the LICENSE file before you make copies or distribute this program    #
 ##############################################################################
-
+#
 CONF_PATH="/etc/ddos"
 CONF_PATH="${CONF_PATH}/"
 
